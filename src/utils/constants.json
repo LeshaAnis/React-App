@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Game Design & Development",
+    "description": "Полный цикл создания игр: от идеи и прототипирования до финального релиза.",
+    "imageUrl": "images/servis_1.png"
+  },
+  {
+    "title": "AR/VR Experiences",
+    "description": "Разработка захватывающих интерактивных решений для виртуальной и дополненной реальности.",
+    "imageUrl": "images/servis_2.jpg"
+  },
+  {
+    "title": "Mobile & Browser Games",
+    "description": "Производство мобильных и браузерных игр с акцентом на вовлекающий геймплей.",
+    "imageUrl": "images/servis_3.png"
+  },
+  {
+    "title": "Art & Animation",
+    "description": "Креативная визуализация: 2D/3D графика, анимация, концепт-арт.",
+    "imageUrl": "images/servis_4.jpg"
+  },
+  {
+    "title": "Technical Support & LiveOps",
+    "description": "Поддержка, обновления и развитие игровых проектов после релиза.",
+    "imageUrl": "images/servis_5.png"
+  },
+  {
+    "title": "Game Monetization Strategies",
+    "description": "Разработка эффективных моделей монетизации для максимизации дохода от игр.",
+    "imageUrl": "images/servis_6.jpg"
+  },
+  {
+    "title": "Multiplayer & Networking",
+    "description": "Создание многопользовательских игр с надежной сетевой архитектурой.",
+    "imageUrl": "images/servis_7.jpg"
+  },
+  {
+    "title": "Game Testing & QA",
+    "description": "Профессиональное тестирование игр для обеспечения качества и стабильности.",
+    "imageUrl": "images/servis_8.jpg"
+  },
+  {
+    "title": "Sound Design & Music",
+    "description": "Создание уникального звукового оформления и музыкального сопровождения для игр.",
+    "imageUrl": "images/servis_9.png"
+  },
+  {
+    "title": "Game Analytics & User Engagement",
+    "description": "Аналитика поведения игроков для улучшения геймплея и удержания аудитории.",
+    "imageUrl": "images/servis_10.jpg"
+  }
+]

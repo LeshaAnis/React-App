@@ -1,0 +1,22 @@
+.banner{
+	background-color: #dadada;
+	
+}
+
+.banner__container {
+	display: flex;
+	justify-content: space-evenly;
+	align-items: center;
+}
+
+@media (max-width: 1040px) {
+	  .banner__image {
+        width: 200px;
+    }
+}
+
+@media (max-width: 769px) {
+	    .banner__image {
+        width: 150px;
+    }
+}

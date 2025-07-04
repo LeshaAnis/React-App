@@ -1,0 +1,10 @@
+.header {
+  margin-left: 100px;
+}
+
+@media (max-width: 769px) {
+  .header {
+    margin-left: 50px;
+    margin-right: 50px;
+  }
+}

@@ -1,0 +1,23 @@
+.partners {
+	margin-top: 150px;
+	margin-bottom: 150px;
+}
+
+.partners__container {
+	display: flex;
+	justify-content: space-evenly;
+	
+}
+
+@media (max-width: 1040px) {
+	    .partners__image {
+        width: 165px;
+    }
+}
+
+@media (max-width: 769px) {
+	    .partners__image {
+        width: 110px;
+
+    }
+}

@@ -1,0 +1,176 @@
+.recommendations {
+	display: flex;
+	margin: 120px 0px;
+}
+
+.recommendations__header {
+	display: flex;
+	align-items: center;
+	margin-left: 100px;
+    width: 580px;
+}
+
+.recommendations__title {
+	font-family: Proxima Nova;
+    font-size: 80px;
+    font-weight: 800;
+	color: #242424;
+}
+
+.recommendations__content_common {
+	display: flex	;
+}
+
+
+.recommendations__content_medium {
+	padding: auto;
+}
+
+.recommendations__description {
+	font-family: Proxima Nova;
+	font-size: 18.51px;
+	font-weight: 400;
+	color: #1C1C1C;
+
+}
+
+.recommendations__button {
+	width: 186px;
+	height: 52px;
+	border-radius: 12px;
+	background-color: #18AFFF;
+	font-family: Proxima Nova;
+	font-size: 16px;
+	font-weight: 700;
+	line-height: 22.13px;
+	color:#ffffff;
+	border: none;
+    margin-top: 30px;
+}
+
+.swiper__containers {
+    position: relative;
+    width: 600px;
+    overflow: hidden;
+	margin-left: 20px;
+    margin-top: 80px;
+}
+
+.img__swipper {
+    width:700px;
+	height: 400px;
+}
+
+.games__banner {
+	position: absolute;
+	left: 0px;
+	bottom: 67px;
+    background-color: #E92129;
+    color: white;
+    width: 200px;
+    padding: 10px;
+    clip-path: polygon(0 0, 100% 0, 85% 100%, 0% 100%);
+    border-radius: 5px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+    z-index: 1;
+}
+
+h2 {
+    margin: 0;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.see__all {
+    display: inline-block;
+    margin-top: 5px;
+    font-size: 12px;
+    color: white;
+    text-decoration: none;
+    font-weight: 400;
+    transition: color 0.3s ease;
+}
+
+.see__all:hover {
+    color: #f0f0f0;
+}
+
+.slider__controls {
+    display: flex; 
+    justify-content: flex-end;
+    z-index: 1; 
+}
+
+.global__text {
+    height: 400px;
+    background-color: #fff9f9;
+}
+
+.images__swipper {
+    margin: 20px;
+    width: 100px;
+    height: 100px;
+}
+
+.internal__text {
+    display: flex;
+    align-items: center;
+
+}
+
+.internal_textin__swipper {
+    margin: 40px;
+}
+
+@media (max-width: 1040px) {
+	 .recommendations__title {
+        width: 350px;
+        font-size: 50px;
+        margin: 20px 0px;
+    }
+
+    .recommendations__description {
+        width: 300px;
+        font-size: 16px;
+        margin-bottom: 20px;
+    }
+
+    .recommendations__button {
+        width: 150px;
+        height: 50px;
+        font-size: 14px;
+    }
+
+    .recommendations__content_medium {
+        width: 500px;
+    }
+
+    .recommendations__content_low {
+        width: 200px;
+    }
+
+    .recommendations__image {
+        width: 500px;
+    }
+
+    .recommendations__images {
+        width: 100px;
+        height: 240px;
+    }
+}
+
+@media (max-width: 769px) {
+    .global__text {
+        margin: 20px;
+    }
+	 .recommendations {
+        display: flex;
+        margin: 50px;
+        display: block;
+    }
+
+    .recommendations__content_common {
+        display: flex;
+        margin-bottom: 50px;
+    }
+}

@@ -1,0 +1,11 @@
+*{
+	list-style: none;
+}
+
+html {
+	margin: 0px;
+	padding: 0px;
+	text-decoration: none;
+	overflow-x: hidden;
+	font-family: Proxima Nova, sans-serif;
+}
